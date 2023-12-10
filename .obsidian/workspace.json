@@ -21,14 +21,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/Web Enumeration.md",
+                "file": "TOOLS/gobuster/dir enum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5921453fde9949bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TARGET/CMSs/Joomla/joomscan scan for vulns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8630147ad281f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAGES/Web Exploitation/Reverse Shell/PHP Reverse shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b3c44aefca4937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAGES/Web Exploitation/Reverse Shell/PHP Reverse shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bea402035c2cf0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAGES/Privilege Escalation/polkit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddeb3ad9f530ae0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TARGET/Databases/MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e65b226e532ac6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAGES/Privilege Escalation/polkit (CVE-2021-3560).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a98ec72826ebd76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAGES/Worflow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -94,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Web Enumeration.md",
+                "file": "STAGES/Worflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enumeration/Web Enumeration.md",
+                "file": "STAGES/Worflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enumeration/Web Enumeration.md"
+                "file": "STAGES/Worflow.md"
               }
             }
           }
@@ -155,9 +239,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99fbe3ac70fceac0",
+  "active": "6a98ec72826ebd76",
   "lastOpenFiles": [
-    "Enumeration",
-    "Enumeration/Web Enumeration.md"
+    "STAGES/Enumeration/Web Enumeration.md",
+    "STAGES/Worflow.md",
+    "STAGES/Privilege Escalation/polkit (CVE-2021-3560).md",
+    "TARGET/CMSs",
+    "STAGES",
+    "TARGET",
+    "TOOLS",
+    "STAGES/Privilege Escalation/Check sudo commands.md",
+    "TOOLS/JohnTheRipper/Bruteforce hash.md",
+    "TARGET/Databases/MySQL.md",
+    "TOOLS/JohnTheRipper",
+    "TARGET/CMSs/Joomla/How to get database name?.md",
+    "STAGES/Privilege Escalation/polkit.md",
+    "TARGET/Databases",
+    "STAGES/Privilege Escalation/GTFObins.md",
+    "STAGES/Web Exploitation/Reverse Shell/PHP Reverse shell.md",
+    "Privilege Escalation/gtfobins",
+    "STAGES/Privilege Escalation/Ubuntu",
+    "STAGES/Privilege Escalation",
+    "TARGET/CMSs/Joomla/How to upload reverse shell?.md",
+    "TARGET/CMSs/Joomla/joomscan scan for vulns.md",
+    "STAGES/Web Exploitation/Reverse Shell",
+    "TOOLS/dirsearch/dir enum.md",
+    "TOOLS/gobuster/dir enum.md",
+    "TOOLS/gobuster/vhost enum.md"
   ]
 }
